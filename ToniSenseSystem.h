@@ -1,7 +1,5 @@
 #pragma once
 
-// Copyright 2021 Daedalic Entertainment GmbH. All Rights Reserved.
-#pragma once
 #include "ToniSenseStimulus.h"
 #include <CoreMinimal.h>
 #include <Components/ActorComponent.h>
